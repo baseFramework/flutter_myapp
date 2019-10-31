@@ -1,0 +1,1 @@
+flutter build ios --build-number 0.0.1 --release && open ios/Runner.xcworkspace && open ~/Documents/产品开发/weride/
